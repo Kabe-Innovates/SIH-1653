@@ -34,7 +34,9 @@ The web-based **Selector-Applicant Simulation Software** aims to create a **smar
 ---
 
 ## Proposed Solution / Architecture Diagram  
-*(Architecture diagram will be added separately.)*  
+
+![image](https://github.com/user-attachments/assets/4e36ef46-e024-4727-b2aa-1bc0e4f03fbf)
+
 
 ---
 
@@ -42,15 +44,24 @@ The web-based **Selector-Applicant Simulation Software** aims to create a **smar
 ### **🔹 Use Case 1: Automated Interview Process**  
 - AI dynamically generates **relevant questions** for the candidate.  
 - The system evaluates **answers based on accuracy and relevance**.  
-- Interviewers have an **override option** for AI-generated scores.  
+- Interviewers have an **override option** for AI-generated scores.
+
+ ![image](https://github.com/user-attachments/assets/456ba812-f9a7-47db-8450-66654067bcba)
+
 
 ### **🔹 Use Case 2: Secure Examination & Anti-Cheating Mechanisms**  
 - Uses **Secure Exam Browser (SEB)-like features** to prevent malpractice.  
-- **AI-powered proctoring** detects face changes, tab switching, and background noise.  
+- **AI-powered proctoring** detects face changes, tab switching, and background noise.
+
+![image](https://github.com/user-attachments/assets/3c42084d-1ab9-4d40-a9bf-76af3f315afa)
+
 
 ### **🔹 Use Case 3: AI-Powered Applicant Ranking & Decision Making**  
 - **Applicant Tracking System (ATS) integration** for ranking candidates.  
-- **Final scoring and reporting** for easy decision-making by DRDO recruiters.  
+- **Final scoring and reporting** for easy decision-making by DRDO recruiters.
+
+![image](https://github.com/user-attachments/assets/435ffaa6-2bd8-4aa1-9aa0-4ce03d015adc)
+
 
 ---
 
